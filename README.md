@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Miranda</h1>
 <h3 align="left">Software Engineer, former Senior Product Manager</h3>
 
-- 🔭 I’m currently working on **The Learning Club**
+- 🔭 I recently graduated from Brainstation's **Full-Stack Engineering** program
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Tailwind**
 
 - 👨‍💻 All of my projects are available at [mirandaneerhof.com](mirandaneerhof.com)
 
